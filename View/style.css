@@ -1,0 +1,28 @@
+.palya{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 50%;
+    margin: auto;
+    gap: 30px;
+    padding: 50px;
+    border: 3px solid black;
+}
+
+header{
+    text-align: center;
+}
+
+#mezo{
+    border: 3px solid dimgray;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+footer{
+    text-align: center;
+}
